@@ -1,0 +1,8 @@
+.quarto/
+*_files/
+*_cache/
+*.html
+.ipynb_checkpoints/
+__pycache__/
+desktop.ini
+.DS_Store
